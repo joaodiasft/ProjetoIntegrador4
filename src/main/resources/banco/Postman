@@ -1,0 +1,42 @@
+cliente
+{
+
+    "id":1,
+    "nome":"GUILHERME",
+    "cpf": "05000000",
+    "telefone":"8455454",
+    "email": "gjojdklf"
+}
+
+endereco
+{
+    "logradouro":"GUILHERME",
+    "numero": "05000000",
+    "complemento":"8455454",
+    "bairro": "gjojdklf",
+    "cidade": "gjojdklf",
+    "estado": "gjojdklf",
+    "cep": "gjojdklf"
+}
+
+webuser
+
+{
+    "password":"GUILHERME",
+    "estado": "05000000"
+}
+
+
+
+{
+    "logradouro": "AB",
+    "numero": "123",
+    "complemento": "47",
+    "bairro": "Genoveva",
+    "cidade": "goiania",
+    "estado": "goias",
+    "cep": "74690000",
+    "cliente": {
+        "id": 1
+    }
+}
